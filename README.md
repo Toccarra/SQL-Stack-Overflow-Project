@@ -6,7 +6,7 @@ In May 2023 over 90,000 developers responded to our annual survey about how they
 
 
 Some of these results were examined using SQL and visualized in this project with aim to analyze data specific to Data and Business Analyst. 
-##### <span style="color:green">Visualization can be found in portfolio</span>  tdickey0101.wixsite.com/heytoccarra
+##### <span style="color:green">Visualization can be found in portfolio</span>  [tdickey0101.wixsite.com/heytoccarra](https://tdickey0101.wixsite.com/heytoccarra)
 
 ### Database and Tools
 SQL Server
